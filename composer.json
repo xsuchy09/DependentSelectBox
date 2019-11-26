@@ -1,5 +1,5 @@
 {
-	"name": "nasext/dependent-select-box",
+	"name": "xsuchy09/dependent-select-box",
 	"type": "library",
 	"description": "Dependent Select Box for Nette Framework.",
 	"keywords": ["nette", "nasext", "DependentSelectBox"],
